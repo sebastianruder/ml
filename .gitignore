@@ -1,4 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
+# IPython notebooks
+.ipynb_checkpoints/
+
 # PyCharm files
 .idea/
 
